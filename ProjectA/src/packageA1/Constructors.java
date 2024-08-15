@@ -19,8 +19,8 @@ public class Constructors {
 		System.out.println("2 Parameterized Constructor");
 	}
 	public static void main(String[] args) {
-		//Constructors ob = new Constructors();
-		Constructors ob1 = new Constructors(10); //control will go to 1 Parameterized Constructor
+		Constructors ob = new Constructors();
+		//Constructors ob1 = new Constructors(10); //control will go to 1 Parameterized Constructor
 		//Constructors ob2 = new Constructors(10, 20);
 	}
 
